@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋! My name is Yusuf Bin Imam and I'm a Frontend Developer</h1>
+<h1 align="center">Hello, my name is Yusuf Bin Imam, and I specialize in Frontend Development.</h1>
 
 ###
 
