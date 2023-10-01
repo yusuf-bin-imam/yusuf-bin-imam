@@ -4,7 +4,7 @@
 
 <p align="left">I'm a junior Mern Stack Developer. I've been working in this industry for a year. I've created some projects at this time for educational purposes. Here is a full-stack also. My objective is to make a career as a web developer. I am consistently giving this place my all to achieve my aim.</p>
 
-###
+## :chart_with_upwards_trend: Current Stats
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=yusuf-bin-imam&locale=en&mode=daily&theme=dark&hide_border=true&border_radius=5" height="150" alt="streak graph"  />
